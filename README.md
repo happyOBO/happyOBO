@@ -5,7 +5,7 @@
 
 ### Hi there 👋
 ### 🌱 I’m currently learning ROS , C++
-### 💬 About me : [https://happyobo.github.io/](https://happyobo.github.io/)
+### 💬 About me : [https://happyobo.github.io/aboutme/portfolio-post/](https://happyobo.github.io/aboutme/portfolio-post/)
 <!--
 **happyOBO/happyOBO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
