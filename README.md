@@ -6,8 +6,6 @@
 [![OBO's github stats](https://github-readme-stats.vercel.app/api?username=happyOBO&show_icons=true&hide_border=true)](https://github.com/happyOBO)
 
 
-### 💬 About me : [https://happyobo.github.io/aboutme/portfolio-post/](https://happyobo.github.io/aboutme/portfolio-post/)
-
 <!--
 **happyOBO/happyOBO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
