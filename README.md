@@ -1,11 +1,10 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=obo314)](https://solved.ac/obo314)
 
-[![OBO's github stats](https://github-readme-stats.vercel.app/api?username=happyOBO&show_icons=true&hide_border=true)](https://github.com/happyOBO)
-
-
 <!--
 **happyOBO/happyOBO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![OBO's github stats](https://github-readme-stats.vercel.app/api?username=happyOBO&show_icons=true&hide_border=true)](https://github.com/happyOBO)
 
 Here are some ideas to get you started:
 ### 🌱 I’m currently learning ROS , C++
